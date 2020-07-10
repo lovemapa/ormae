@@ -1,10 +1,12 @@
 # ormae
 
 
-![Image of Yaktocat](https://drive.google.com/file/d/11jWIHspE50a_UxyjMwoLLqP5TrKASCeZ/view?usp=sharing)
+![Architecture](https://drive.google.com/file/d/11jWIHspE50a_UxyjMwoLLqP5TrKASCeZ/view?usp=sharing)
 
 
 
+* Image URL
+https://drive.google.com/file/d/11jWIHspE50a_UxyjMwoLLqP5TrKASCeZ/view?usp=sharing 
 
 **Why I used sokcet.io and Redis**
 
