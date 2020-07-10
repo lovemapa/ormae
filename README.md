@@ -16,3 +16,8 @@ Socket.io being realtime was the preference . Redis was used to used a PubSub mo
 **Deployment**
 
 My Preferable option would be using AWS EC2 instance.
+
+
+**Testing**
+
+Not much idea about testing but in my opinion Agile would be great approach for it.
