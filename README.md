@@ -1,7 +1,7 @@
 # ormae
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://drive.google.com/file/d/11jWIHspE50a_UxyjMwoLLqP5TrKASCeZ/view?usp=sharing)
 
 
 
