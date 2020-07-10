@@ -17,7 +17,7 @@ https://drive.google.com/file/d/11jWIHspE50a_UxyjMwoLLqP5TrKASCeZ/view?usp=shari
 
 **Why I used sokcet.io and Redis**
 
-Socket.io being realtime was the preference . Redis was used to used a PubSub model to prevent manual triggering.
+Socket.io being realtime was the preference . Redis was used to used a PubSub model.
 
 
 **Deployment**
