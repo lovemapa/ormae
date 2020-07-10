@@ -5,6 +5,13 @@
 
 
 
+Installation
+============
+
+    npm install
+    npm start
+    node subscriber.js
+
 * Image URL
 https://drive.google.com/file/d/11jWIHspE50a_UxyjMwoLLqP5TrKASCeZ/view?usp=sharing 
 
